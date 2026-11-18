@@ -1,0 +1,6 @@
+Mostra versões dos sdks
+	dotnet --list-sdks
+Cria GlobalJson
+	dotnet new globaljson --sdk-version 5.0.408
+Cria projeto
+	dotnet new webapi -n WebAPIv9
